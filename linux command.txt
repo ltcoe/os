@@ -1,0 +1,34 @@
+echo "The Boys"
+
+echo "I";read name;echo "gonna be a king"
+
+cal
+
+date
+
+uname
+
+pwd
+
+cd kunal
+
+mkdir kunal
+
+touch sigma
+
+cat > chad
+
+rm -r kunal
+
+head sigma
+
+tail sigma
+
+tac sigma
+
+su computer
+
+id
+
+wc sigma
+
